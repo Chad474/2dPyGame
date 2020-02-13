@@ -1,0 +1,21 @@
+-------WWWWWWWWWWWWWWWWWWWWWWWWW
+---                            W
+WWW                            W
+WPW                            W
+W W                            W
+W W                            W
+W W                            W
+W W                            W
+W              W FF            W
+W      W       F               W
+WWWWW             WWWWW    C   W
+W          WWWW   W       GGG  W
+W                W             W
+W                              W
+W                              W
+W                              W
+WB      W     W                W
+GGGGGGGG   GGGGGGGG    GGGGGGGGG
+:bg night1.png
+:wall purplebrick.png
+#

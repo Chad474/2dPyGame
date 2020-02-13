@@ -1,0 +1,21 @@
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWF                      FWWWW
+WWWWB                 C     WWWW
+WWWWP        V        W    FWWWW
+WWWWF        F              WWWW
+WWWW                        WWWW
+WWWW        J               WWWW
+WWWW                        WWWW
+WWWW                        WWWW
+WWWW             J          WWWW
+WWWW                        WWWW
+WWWW                        WWWW
+WWWW        J               WWWW
+WWWW                        WWWW
+WWWW                        WWWW
+WWWW  JJ                    WWWW
+WWWWTTTTTTTTTTTTTTTTTTTTTTTTWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+:bg space2.png
+:wall iceberg.png
+#

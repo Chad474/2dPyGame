@@ -1,0 +1,21 @@
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+WWWWW                    WWWWWWW
+WWWWW  WWW C             WWWWWWW
+WWWWWWF VWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWW   WWWWWWWWWWWWWWWWWWWWWWW
+WWWWWW V      W FBBBBFBFW      W
+WWWWWW       FF F    BB F      W
+WWWWWWV  WWWWWWWWWWWWWWWWWW    W
+WWWWWWWWWW   B WW   BB   F     W
+WWWWWWWWWWB WW WW WWWWWW WWWW  W
+WWWWP    FB   B FBBB     WWWWJJW
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+:bg sky1.png
+:wall rock.png
+#

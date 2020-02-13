@@ -1,0 +1,21 @@
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+W    WW       F   F FFFF      WW
+WP   W            F            W
+WWWW WWWFF        F           CW
+W    JJ                       WW
+W        J     F               W
+W                              W
+W   JJJ                        W
+WJ  TWF                        W
+WJ  TW         F          J    W
+W    W     FF                  W
+WJJJJW      F                  W
+W     F     F  F       F       W
+W          BFFF  FF   FT       W
+WFF         F                  W
+W           F                  W
+W           F                  W
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+:bg sky1.png
+:wall blackbrick.png
+#

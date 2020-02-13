@@ -1,0 +1,21 @@
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+WF     F                       W
+WF                          F  W
+W                              W
+WWWW         FW               FW
+WF    F     F WFF            F W
+WB     J      WH               W
+W            PW              F W
+TTTTTTTTTTTFF WH               W
+W         T  WH                W
+W      CF  TT    FFF FFF FFF F W
+W      WBF                     W
+W                 V   V        W
+W                              W
+W                              W
+W      F                  V    W
+W      FFF      FFF  FFF FFF  FW
+                                
+:bg space1.png
+:wall rock.png
+#

@@ -1,0 +1,21 @@
+           WWWFFWWWW           
+             W  W              W
+             W                 W
+                W       WWW    W
+W            W  W  J    WT     W
+W    J       WBSW       WT     W
+WWW        J WWWW       WT  TWWW
+                        WT  WWWW
+       J W  W            W  WWWW
+   J       W             W TWWWW
+        WW               W  WWWW
+W      W                 W  WWWW
+WP                       W  WWWW
+WWWW  J                  WTFW WW
+W                        WT   BW
+W                        WT  WCW
+W                        WWWWWWW
+                                
+:bg night.png
+:wall iceberg.png
+#

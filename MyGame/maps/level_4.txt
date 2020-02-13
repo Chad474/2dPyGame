@@ -1,0 +1,21 @@
+WWWWWWWWWWWWWWWWWWWWWWWUWUWWWWWW
+WWWWWU UU    U   U  S         CW
+W                  WWW       WW
+W                   W        WWW
+W                   W          W
+W                J  W          W
+W       J   JJ      WJJTTTJJ   W
+WWW J              WWWWWWWWWWWWW
+W                  FFFFFFFFFFFFW
+W  JWW             F           W
+W                  WH          W
+W      J  W  S    WH           W
+WWWWWWWWWWWWWWWWWWH            W
+W             W WH             W
+W  WWW  WW      F              W
+W            W  W              W
+WBBP     W      W             BW
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+:bg space1.png
+:wall blackbrick.png
+#
